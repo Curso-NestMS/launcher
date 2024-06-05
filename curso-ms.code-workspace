@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "client-gateway"
+		},
+		{
+			"path": "orders-microservice"
+		},
+		{
+			"path": "products-microservice"
+		}
+	]
+}
