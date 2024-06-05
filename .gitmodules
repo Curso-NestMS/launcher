@@ -5,5 +5,5 @@
 	path = products-microservice
 	url = https://github.com/Curso-NestMS/products-microservice.git
 [submodule "orderss-microservice"]
-	path = orderss-microservice
+	path = orders-microservice
 	url = https://github.com/Curso-NestMS/orders-microservice.git
